@@ -1,0 +1,8 @@
+XPATH BY ATTRIBUTE(And Or Not)
+
+//input[@type='submit']                 ---Abutton
+//input[@value='B']                     ----B
+//input[@value='A' and @type='text']    ---A
+//input[@type='text']                   ---Ab
+//input[@value='A']                     ---AAbutton
+//input[@value='B' or @type='submit']   ---BAbutton
