@@ -1,0 +1,28 @@
+Assignment on independent&dependent xpath on mobile
+
+1)Tourism------FE
+1800 110 139  / 0755 - 6698100 / 4090400------DE
+2)//td[text()='Tourism']
+3)//td[text()='Tourism']/..
+4)//td[text()='Tourism']/..//td[@data-title='helpline']
+
+
+1)MOTOROLA e32 (Arctic Blue, 64 GB)----FE
+₹7,499------DE
+2)//div[text()='MOTOROLA e32 (Arctic Blue, 64 GB)']
+3)//div[text()='MOTOROLA e32 (Arctic Blue, 64 GB)']/../..
+4)//div[text()='MOTOROLA e32 (Arctic Blue, 64 GB)']/../..//div[@class='_30jeq3 _1_WHN1']  
+
+1)SAMSUNG Galaxy F23 5G (Aqua Blue, 128 GB)----FE
+₹16,999-------DE
+2)//div[text()='SAMSUNG Galaxy F23 5G (Aqua Blue, 128 GB)']
+3)//div[text()='SAMSUNG Galaxy F23 5G (Aqua Blue, 128 GB)']/../..
+4)//div[text()='SAMSUNG Galaxy F23 5G (Aqua Blue, 128 GB)']/../..//div[@class='_30jeq3 _1_WHN1']
+
+
+1)APPLE iPhone 13 (Midnight, 128 GB)------FE
+₹55,999
+2)//div[text()='APPLE iPhone 13 (Midnight, 128 GB)']
+3)//div[text()='APPLE iPhone 13 (Green, 128 GB)']
+4)//div[text()='APPLE iPhone 13 (Green, 128 GB)']/../..
+5)//div[text()='APPLE iPhone 13 (Green, 128 GB)']/../..//div[@class='_30jeq3 _1_WHN1']
